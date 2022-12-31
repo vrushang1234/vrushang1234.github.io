@@ -1,9 +1,8 @@
 * {
     margin: 0 0 0 0;
     scroll-behavior: smooth;
-
-
 }
+
 
 body::-webkit-scrollbar {
     display: none;
@@ -254,6 +253,7 @@ body::-webkit-scrollbar {
 .fourth_page {
     align-items: center;
     background-color: #1f2021;
+    margin-top: 0%;
 }
 
 .link_icons {
@@ -297,6 +297,7 @@ body::-webkit-scrollbar {
     height: 5vh;
     width: 100vw;
     background-color: black;
+    margin-top: 0%;
 }
 
 
